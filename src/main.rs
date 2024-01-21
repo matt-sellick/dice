@@ -3,7 +3,6 @@ use std::io::{stdout, Write};
 use dice::input_handling;
 
 // command line dice roller
-// trivial change
 
 fn main() {
     print!("\nEnter command (or 'help' / 'quit'):");
